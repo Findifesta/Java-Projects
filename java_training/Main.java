@@ -48,9 +48,9 @@ public class Main {
 //	ex5.calcPerimetro();
 	
 //Adivinha
-	Adivinha ex6 = new Adivinha();
-	ex6.perguntar("Eu vou ficar nervoso quando for beijar a Amanda?");
-	ex6.sortear(26);
+//	Adivinha ex6 = new Adivinha();
+//	ex6.perguntar("Vai chover amanhã?");
+//	ex6.sortear(26);
 
 
 }
